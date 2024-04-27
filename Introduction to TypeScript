@@ -1,0 +1,20 @@
+#What is TypeScript ?
+TypeScript is an aletrnative to JavaScript that allows us to use modern JavaScript features such as: arrow functions, let , const etc. It facilitates extra features such as: 
+static typing, type interface , compilationetc.
+
+
+#Set up Typescript
+1. We need to install Nodejs from its official website:
+https://nodejs.org/en/download/current
+
+We can check the version of NodeJS and NPM through follwing commands: 
+node --version
+npm --version
+
+2. Afterward we neet to download TypeScript by using follwing command:
+
+npm install -g typescript
+
+We can check the version of Typescript by folowing command:
+
+tsc --version
