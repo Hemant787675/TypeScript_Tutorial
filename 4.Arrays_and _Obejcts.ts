@@ -20,7 +20,7 @@ console.log(combined)
 
 let obj={
     car:'naxon',
-    safetyRatings:5
+    safetyRatings:5 
 }
 
 //obj.safetyRatings='4';//It will throw an error, because we cannot pass string as value here. We have given number type value at the time of declaration
