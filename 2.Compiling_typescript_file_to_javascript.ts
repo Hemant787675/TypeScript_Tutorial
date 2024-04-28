@@ -7,7 +7,7 @@ console.log(ch);
 // We can define the variables same as in JS just we need to compile it with this command: tsc <filename>
 //For example: 
 //tsc compilation_typescript_to_js.ts
-
+ 
 //It will generate a Javascritp file with same name
 
 //We can  link that file with an Html file such as this file: index.html
