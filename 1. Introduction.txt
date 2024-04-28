@@ -18,3 +18,4 @@ npm install -g typescript
 We can check the version of Typescript by folowing command:
 
 tsc --version
+ 
