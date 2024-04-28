@@ -23,3 +23,4 @@ console.log(li)
 li.forEach(i=>{
     console.log(i);
 })
+ 
