@@ -12,7 +12,9 @@ console.log(ch);
 
 //We can  link that file with an Html file such as this file: index.html
 
-//We can  see the outputs in console
+//We can  see the outputs in console by inspecting
+
+//or we can simply see the output through by this command: node <filename>.js
 
 const li=document.querySelectorAll('li');
 
