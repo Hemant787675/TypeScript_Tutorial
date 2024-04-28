@@ -9,7 +9,7 @@ nam='Akash';
 
 let age=21;
 
-age=23;
+age=23; 
 
 //Creating function here
 const area_of_square=(side:number)=>{
